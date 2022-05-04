@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"mlx.h": "c",
+		"cerrno": "c",
+		"error.h": "c",
+		"errno.h": "c",
+		"graphic.h": "c",
+		"log.h": "c"
+	}
+}
